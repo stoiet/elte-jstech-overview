@@ -34,6 +34,31 @@ A megoldasokrol pedig egy erdemjegy es egy szoveges ertekeles fog szuletni.
 
 ## Minta beadando feladatok
 
+### #2 Linkek nyomon kovetese
+
+A feladat egy olyan alkalmazas megvalositasa, amivel egy tetszoleges HTML forrasban tudunk linkeket beallitani nyomon kovetes celjabol.
+* *(Nyomon kovetes alatt a linkek sajat magunkhoz valo atiranyitasat ertjuk, amin keresztul nyomon tudjuk kovetni, hogy a linkre kattintottak)*
+* *(Egy link alatt a HTML ```<a>``` elemet ertunk)*
+
+Az alkalmazas alljon ket kulon panelbol. Az egyik panel legyen egy szoveseges mezo (akar szerkeszto). A masik panel pedig jelenitse meg a szovegben talalhato
+linkeket egy listaban, es tegye lehetove azok nyomon kovetesenek beallitasat.
+
+A jobb oldali panel lehet egy sima szoveges mezo, ahova barmit be tudunk irni (textarea) vagy valami *okosabb* szerkeszto (CodeMirror, TinyMCE).
+
+A bal oldali panel tartalmazzon egy listat, ahol egy lista elem a kovetkezo:
+Nyomon kovetes | URL |
+-------------- | --- |
+[X] | http://www.google.com
+[_] | http://www.twitter.com
+
+Tovabba legyen egy kereso mezo, ami mindig a linkek URL - jeben keres es neveben keres. Egy linket akkor tekintunk ervenyesnek
+ha a href attributumaban ervenyes URL cim talalhato.
+Ha a szoveges mezo tartalma valtozik (esetleg link torlodik, adodik hozza), akkor a linkek listaja is azonnal frissuljon.
+Az alkalmazas ujratoltese utan a linkek allapota ne vesszen el, mas bongeszobol valo megnyitas utan sem.
+Az alkalmazas egy felhasznalo kiszolgalasara legyen kepes.
+
+*(A legkonnyebben ugy tudjuk tarolni egy linken, hogy nyomon van kovetve, ha egy seged attributumot teszunk ra, pl.: tracked="true")*
+
 ## Feladatok
 
 ## Hivatkozasok
