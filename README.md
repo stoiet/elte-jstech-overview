@@ -14,8 +14,8 @@
 7. **React.js** alkalmazas allapotkezelese **Redux** - al
 8. *JavaScript* projekt eszkozkeszlet
 9. Komponensek az **Angular.js** - ben
-10. **Angular.js** alkalmazas allapotkezelese **Rx.js** - el **(opcionalis)**
-11. Kitekintes a *TypeScript* / **Angular2** - re **(opcionalis)**
+10. **Angular.js** alkalmazas allapotkezelese **Rx.js** - el *(opcionalis)*
+11. Kitekintes a *TypeScript* / **Angular2** - re *(opcionalis)*
 
 ## Szamonkeres
 
