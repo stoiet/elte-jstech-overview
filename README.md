@@ -34,7 +34,7 @@ A megoldasokrol pedig egy erdemjegy es egy szoveges ertekeles fog szuletni.
 
 ## Minta beadando feladatok
 
-### #2 Linkek nyomon kovetese
+### #1 Linkek nyomon kovetese
 
 A feladat egy olyan alkalmazas megvalositasa, amivel egy tetszoleges HTML forrasban tudunk linkeket beallitani nyomon kovetes celjabol.
 * *(Nyomon kovetes alatt a linkek sajat magunkhoz valo atiranyitasat ertjuk, amin keresztul nyomon tudjuk kovetni, hogy a linkre kattintottak)*
