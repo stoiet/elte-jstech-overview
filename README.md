@@ -2,6 +2,9 @@
 
 ## Ismerteto
 
+A targy celja, hogy megismerkedjunk a JavaScript nyelvvel es az eppen aktualis modern, kore epulo technologiakkal, keretrendszerekkel.
+Illetve, hogy nemi betekintest nyerjunk a web platformra valo alkalmazasfejlesztesre.
+
 ## Tematika
 
 1. Bevezetes a *JavaScript* es a *Webt* vilagaba
