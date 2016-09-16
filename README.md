@@ -65,6 +65,8 @@ Az alkalmazas egy felhasznalo kiszolgalasara legyen kepes.
 
 ## Diak
 
+* [1. ora](https://slides.com/robertberetka/jstech/live#/0)
+
 ## Feladatok
 
 ## Hivatkozasok
