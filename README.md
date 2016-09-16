@@ -68,4 +68,5 @@ Az alkalmazas egy felhasznalo kiszolgalasara legyen kepes.
 ## Feladatok
 
 ## Hivatkozasok
+* [Web as a platform](http://www.2ality.com/2010/12/web-as-application-platform-latest.html)
 * [WAT!](https://www.destroyallsoftware.com/talks/wat)
