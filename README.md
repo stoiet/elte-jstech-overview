@@ -49,8 +49,9 @@ linkeket egy listaban, es tegye lehetove azok nyomon kovetesenek beallitasat.
 A jobb oldali panel lehet egy sima szoveges mezo, ahova barmit be tudunk irni (textarea) vagy valami *okosabb* szerkeszto (CodeMirror, TinyMCE).
 
 A bal oldali panel tartalmazzon egy listat, ahol egy lista elem a kovetkezo:
+
 Nyomon kovetes | URL |
--------------- | --- |
+:--------------:|:---:|
 [X] | http://www.google.com
 [_] | http://www.twitter.com
 
