@@ -7,7 +7,7 @@ Illetve, hogy nemi betekintest nyerjunk a web platformra valo alkalmazasfejleszt
 
 ## Tematika
 
-1. Bevezetes a *JavaScript* es a *Webt* vilagaba
+1. Bevezetes a *JavaScript* es a *Web* vilagaba
 2. Amit az *ECMAScript 7* szabvanyrol tudni erdemes
 3. Aszinkron *JavaScript* fejlodese
 4. **Node.js** es a szerver oldali *JavaScript*
@@ -63,6 +63,9 @@ Az alkalmazas egy felhasznalo kiszolgalasara legyen kepes.
 
 *(A legkonnyebben ugy tudjuk tarolni egy linken, hogy nyomon van kovetve, ha egy seged attributumot teszunk ra, pl.: tracked="true")*
 
+## Diak
+
 ## Feladatok
 
 ## Hivatkozasok
+* [WAT!](https://www.destroyallsoftware.com/talks/wat)
