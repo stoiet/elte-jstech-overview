@@ -66,8 +66,11 @@ Az alkalmazas egy felhasznalo kiszolgalasara legyen kepes.
 ## Diak
 
 * [1. ora](https://slides.com/robertberetka/jstech/live#/0)
+* [2. ora](https://slides.com/robertberetka/jstech-14/live#/)
 
 ## Feladatok
+
+* [Repository](https://github.com/stoiet/elte-jstech-exercises)
 
 ## Hivatkozasok
 * [Web as a platform](http://www.2ality.com/2010/12/web-as-application-platform-latest.html)
