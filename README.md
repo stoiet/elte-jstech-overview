@@ -82,8 +82,8 @@ a szemelyeknek megadott mezoknek. A harmadik oldalon a szemelyek adatait lehesse
 
 ## Diak
 
-* [1. ora](https://slides.com/robertberetka/jstech/live#/0)
-* [2. ora](https://slides.com/robertberetka/jstech-14/live#/)
+* [1. ora](https://slides.com/robertberetka/jstech/)
+* [2. ora](https://slides.com/robertberetka/jstech-14/)
 
 ## Feladatok
 
