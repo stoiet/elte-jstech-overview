@@ -35,6 +35,8 @@ Amennyiben ennek megallapitasa nem egyertelmu elozetesen tudunk egyeztetni a fel
 A megoldasokat email formajaban lehet majd bekuldeni (akar a teljes projektet vagy a remote repository linkjet).
 A megoldasokrol pedig egy erdemjegy es egy szoveges ertekeles fog szuletni.
 
+A feladatok megoldasa soran szerver oldal megvalositasa nem kotelezo, az adatokat elegendo bongeszoben tarolni (LocalStorage).
+
 ## Minta beadando feladatok
 
 ### #1 Linkek nyomon kovetese
@@ -62,6 +64,21 @@ Az alkalmazas ujratoltese utan a linkek allapota ne vesszen el, mas bongeszobol 
 Az alkalmazas egy felhasznalo kiszolgalasara legyen kepes.
 
 *(A legkonnyebben ugy tudjuk tarolni egy linken, hogy nyomon van kovetve, ha egy seged attributumot teszunk ra, pl.: tracked="true")*
+
+### #2 Szemelyre szabott elonezet
+
+A feladat egy olyan alkalmazas megvalositasa, amivel szemelyekrol tarolt adatok alapjan tudunk uzeneteket ugy megtekinteni, hogy az uzenet
+tartalma az adott szemelyre szabva jelenik meg.
+
+Egy szemelyrol taroljunk vezeteknevet, keresztnevet, nemet, es szuletesi datumot alapesetben, de legyen lehetoseg ezek bovitesere.
+A szemelyekrol felveheto mezoknek lehessen alaperteket megadni, arra az esetre, ha egy szemelynel nem lenne kitoltve pl. a szuletesi datum.
+Az uzenetekben tokeneket helyezhetunk el a szemelyekrol tarolt adatok alapjan.
+Peldaul a keresztnev eseten (first name) az uzenetben, mint {{ firstName }} token szerepelhet.
+Az uzenet elonezeteben lehet valasztani a szemelyek kozott, es az uzenetben szereplo tokenek az adott szemely adatainak megfeleloen lecserelodnek
+a szemely ertekeire.
+
+Az alkalmazas alljon harom oldalbol, az egyik az uzenet szerkesztobol es elonezetbol. A masodik oldalon lehessen alapertekeket megadni
+a szemelyeknek megadott mezoknek. A harmadik oldalon a szemelyek adatait lehessen kitolteni es uj mezoket felvenni.
 
 ## Diak
 
