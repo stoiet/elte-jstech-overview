@@ -10,15 +10,15 @@ Illetve, hogy nemi betekintest nyerjunk a web platformra valo alkalmazasfejleszt
 1. Bevezetes a *JavaScript* es a *Web* vilagaba
 2. Amit az *ECMAScript 7* szabvanyrol tudni erdemes
 3. Aszinkron *JavaScript* fejlodese
-4. **Node.js** es a szerver oldali *JavaScript*
-5. *Web Components* technologiak
-6. *Single-page application* **React.js** - ben
-8. *Container* es *presentational* komponensek **React.js** - ben
-7. **React.js** alkalmazas allapotkezelese **Redux** - al
-8. *JavaScript* projekt eszkozkeszlet
-9. Komponensek az **Angular.js** - ben
-10. **Angular.js** alkalmazas allapotkezelese **Rx.js** - el *(opcionalis)*
-11. Kitekintes a *TypeScript* / **Angular2** - re *(opcionalis)*
+4. *Single-page application* **React.js** - ben
+5. *Container* es *presentational* komponensek **React.js** - ben
+6. **React.js** alkalmazas allapotkezelese **Redux** - al
+7. **Node.js** es a szerver oldali *JavaScript*
+8. *Web Components* technologiak
+9. *JavaScript* projekt eszkozkeszlet
+10. Komponensek az **Angular.js** - ben
+11. **Angular.js** alkalmazas allapotkezelese **Rx.js** - el *(opcionalis)*
+12. Kitekintes a *TypeScript* / **Angular2** - re *(opcionalis)*
 
 ## Szamonkeres
 
