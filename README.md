@@ -92,3 +92,6 @@ a szemelyeknek megadott mezoknek. A harmadik oldalon a szemelyek adatait lehesse
 ## Hivatkozasok
 * [Web as a platform](http://www.2ality.com/2010/12/web-as-application-platform-latest.html)
 * [WAT!](https://www.destroyallsoftware.com/talks/wat)
+* [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Object Oriented JS](http://shop.oreilly.com/product/9781593275402.do)
+* [JS Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
