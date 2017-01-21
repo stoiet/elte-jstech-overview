@@ -13,12 +13,13 @@ Illetve, hogy nemi betekintest nyerjunk a web platformra valo alkalmazasfejleszt
 4. *Single-page application* **React.js** - ben
 5. *Container* es *presentational* komponensek **React.js** - ben
 6. **React.js** alkalmazas allapotkezelese **Redux** - al
-7. **Node.js** es a szerver oldali *JavaScript*
-8. *Web Components* technologiak
+7. Redux
+8. **Node.js** es a szerver oldali *JavaScript*
 9. *JavaScript* projekt eszkozkeszlet
 10. Komponensek az **Angular.js** - ben
 11. **Angular.js** alkalmazas allapotkezelese **Rx.js** - el *(opcionalis)*
 12. Kitekintes a *TypeScript* / **Angular2** - re *(opcionalis)*
+13. *Web Components* technologiak *(opcionalis)*
 
 ## Szamonkeres
 
