@@ -24,17 +24,15 @@ A kurzuson nem vezetunk katalogust, viszont az orara valo bejaras erosen ajanlot
 tapasztalatok alapjan nem szokott sikerulni azoknak, akik a felev soran akar csak nehany alkalommal is hianyoznak.
 
 ## Tematika
-> * **Bevezeto a JavaScript nyelvrol**
-> * **Diak:** -
-> * **Feladatok:** -
-
-> * **Modularizalt es objektum-orientalt JavaScript**
-> * **Diak:** -
-> * **Feladatok:** -
-
-> * **Asszinkronitas kezelese JavaScriptben**
-> * **Diak:** -
-> * **Feladatok:** -
+* **1. - Bevezeto a JavaScript nyelvrol**
+  * Diak: -
+  * Feladatok: -
+* **2. - Modularizalt es objektum-orientalt JavaScript**
+  * Diak: -
+  * Feladatok: -
+* **3. - Asszinkronitas kezelese JavaScriptben**
+  * Diak: -
+  * Feladatok: -
 
 ## Szamonkeres
 ### Szamonkeres modja
