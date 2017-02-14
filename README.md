@@ -25,8 +25,8 @@ tapasztalatok alapjan nem szokott sikerulni azoknak, akik a felev soran akar csa
 
 ## Tematika
 * **1. - Bevezeto a JavaScript nyelvrol**
-  * Diak: -
-  * Feladatok: -
+  * Diak: [link](http://slides.com/robertberetka/jstech-17)
+  * Feladatok: [link](https://github.com/stoiet/elte-jstech-exercises/tree/master/lession01)
 * **2. - Modularizalt es objektum-orientalt JavaScript**
   * Diak: -
   * Feladatok: -
