@@ -44,9 +44,59 @@ tapasztalatok alapjan nem szokott sikerulni azoknak, akik a felev soran akar csa
   * Feladatok: -
 
 ## Szamonkeres
+
 ### Szamonkeres modja
+A targyat egy beadando feladat (SPA alkalmazas) megoldasanak leadasaval lehet sikeresen teljesiteni.
+A beadando feladat megoldasanak leadasa az egyetlen feltetele a targy sikeres teljesitesenek,
+viszont az erdemjegy a kovetkezo szempontok alapjan all elo:
+* a kod mennyire felel meg az oran targyalt konvencioknak (kodszervezes, clean code, best practises)
+* komponens-alapu architektura kliens oldalon (smart/dumb komponensek, single-responsibility principle)
+* az alkalmazas kodja az aktualis JavaScript szabvany (ES2017) es modern nyelvi *"feature"*-ok felhasznalasaval keszult
+* az alkalmazas az oran targyalt eszkozok es keretrendszerek felhasznalasaval keszult
+
+A bekuldott megoldasokrol egy ertekeles fog szuletni, amit az az alapjan megajanlott jeggyel egyutt fogok visszakuldeni.
+Egy megoldas tobbszor is beadhato es finomithato - egeszen a leadasi hataridoig - a visszajelzesek alapjan, igy akar
+jobb erdemjegyet is lehet szerezni. Konzultaciot csak abban az esetben tartok, hogyha arra van tenyleges igeny es ezt
+jeleztetek is idoben.
+
+Ha az alkalmazast nem sikerult teljesen befejezni a kiszabott hataridore (nehany funkcionalitas hianyzik),
+akkor is javaslom az elkuldeset, mivel ha az elkeszult kod minosege tukrozi az igyekezetet es az oran targyaltak
+elsajatitasat, akkor a targy elerte a celjat es ennek fejeben akar a targy teljesitese is sikeres lehet.
+
+Arra felhivnam mindenki figyelmet, hogy a nagyon silany minosegu, osszecsapott megoldasok eseten - amelyeken latszik, hogy
+se megfelelo mennyisegu idot nem szantak ra, se az oran elhangzottak nem lettek figyelembe veve - fenntartom a jogot arra,
+hogy elegtelen megajanlott jegyet adjak ra, annak ellenere, hogy lett bekuldve *"valamilyen"* megoldas.
+
 ### Szamonkeres hatarideje
+A beadando feladatot legkesobb junius 20 - ig lehet bekuldeni az alabbi email cimre: **to.stoiet@gmail.com**
+A beadando feladatot vagy a teljes forraskod vagy remote repository link (Github/BitBucket) elkuldesevel
+lehet leadni.
+
 ### Beadando feladat
+**Keretrendszerek / eszkozok:**
+* Kliens oldalon: ReactJS vagy AngularJS 1
+* Szerver oldalon: NodeJS, KoaJS, MongoDB
+* Csomagkezelo: NPM vagy Yarn
+* Projekt eszkozok: Webpack es Babel
+
+**Feladat:** Persona Preview
+
+Kepzeljunk el egy olyan alkalmazast, amivel olyan HTML oldalakat lehet epiteni, amelyeket tudunk szemelyre szabni.
+Az alkalmazasban fel tudunk venni *"persona"*-kat, akiknek meg tudunk adni egyedi adatokat, ezen kivul meg tudunk adni
+egy olyan HTML template-t, amelyet egy adott *"persona"*-ra legeneralva megkapjuk azt az oldalt, amit az adott szemelynek
+mutatnak a megfelelo adatai alapjan.
+
+**Pelda:**
+* Van N darab *"persona"*-nank, akikhez tartozik egy email mezo, benne a sajat email cimeikkel. Illetve van egy HTML template-unk,
+ami az egyszeruseg kedveert nezzen ki igy: ```<b>Email: </b><span>{{ persona.email }}</span>```
+Ha kivalasztunk egy *"persona"*-t - akinek az email cime mondjuk: persona@personamail.com - akkor az igy kapott generalt HTML
+a kovetkezo lesz: ```<b>Email: </b><span>persona@personamail.com</span>```
+
+**Elfogadasi feltetelek:**
+* Lehessen megadni *"persona"*-kat, akik a kovetkezo mezokkel rendelkeznek: first_name, last_name, email, gender
+* Mar felvett *"persona"*-k adatait lehessen utolag modositani
+* Lehessen megadni egy tetszoleges HTML template - t
+* Lehessen a generalt HTML eredmenyet egy kulon elonezetben (preview) megtekinteni *"persona"*-kent
 
 ## Feladatok
 * [Orai feladatgyujtemeny](https://github.com/stoiet/elte-jstech-exercises)
