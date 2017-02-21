@@ -33,6 +33,15 @@ tapasztalatok alapjan nem szokott sikerulni azoknak, akik a felev soran akar csa
 * **3. - Asszinkronitas kezelese JavaScriptben**
   * Diak: -
   * Feladatok: -
+* **4. - Ismerkedes a komponens-alapu architekturaval (ReactJS) #1**
+  * Diak: -
+  * Feladatok: -
+* **5. - Ismerkedes a komponens-alapu architekturaval (ReactJS) #2**
+  * Diak: -
+  * Feladatok: -
+* **6. - ReactJS alkalmazas allapotkezelese Redux-al**
+  * Diak: -
+  * Feladatok: -
 
 ## Szamonkeres
 ### Szamonkeres modja
