@@ -1,7 +1,7 @@
 # **ELTE - JavaScript Technologiak**
 
 ## Idopont es helyszin
-* **Idopont:** Kedd, 16:15 - 18:00
+* **Idopont:** Kedd, 16:00 - 17:45
 * **Helyszin:** Eszaki tomb, 2.63 - as terem, PC-8
 
 ## Ismerteto
