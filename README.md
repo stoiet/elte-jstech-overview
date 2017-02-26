@@ -27,19 +27,22 @@ tapasztalatok alapjan nem szokott sikerulni azoknak, akik a felev soran akar csa
 * **1. - Bevezeto a JavaScript nyelvrol**
   * Diak: [link](http://slides.com/robertberetka/jstech-17)
   * Feladatok: [link](https://github.com/stoiet/elte-jstech-exercises/tree/master/lession01)
-* **2. - Modularizalt es objektum-orientalt JavaScript**
+* **2. - Modularizalt es objektum-orientalt JavaScript #1**
+  * Diak: [link](https://slides.com/robertberetka/jstech-17-19/live#/)
+  * Feladatok: [link](https://github.com/stoiet/elte-jstech-exercises/tree/master/lesson02)
+* **3. - Modularizalt es objektum-orientalt JavaScript #2**
   * Diak: -
   * Feladatok: -
-* **3. - Asszinkronitas kezelese JavaScriptben**
+* **4. - Asszinkronitas kezelese JavaScriptben**
   * Diak: -
   * Feladatok: -
-* **4. - Ismerkedes a komponens-alapu architekturaval (ReactJS) #1**
+* **5. - Ismerkedes a komponens-alapu architekturaval (ReactJS) #1**
   * Diak: -
   * Feladatok: -
-* **5. - Ismerkedes a komponens-alapu architekturaval (ReactJS) #2**
+* **6. - Ismerkedes a komponens-alapu architekturaval (ReactJS) #2**
   * Diak: -
   * Feladatok: -
-* **6. - ReactJS alkalmazas allapotkezelese Redux-al**
+* **7. - ReactJS alkalmazas allapotkezelese Redux-al**
   * Diak: -
   * Feladatok: -
 
