@@ -28,7 +28,7 @@ tapasztalatok alapjan nem szokott sikerulni azoknak, akik a felev soran akar csa
   * Diak: [link](http://slides.com/robertberetka/jstech-17)
   * Feladatok: [link](https://github.com/stoiet/elte-jstech-exercises/tree/master/lession01)
 * **2. - Modularizalt es objektum-orientalt JavaScript #1**
-  * Diak: [link](https://slides.com/robertberetka/jstech-17-19/live#/)
+  * Diak: [link](http://slides.com/robertberetka/jstech-17-19#/)
   * Feladatok: [link](https://github.com/stoiet/elte-jstech-exercises/tree/master/lesson02)
 * **3. - Modularizalt es objektum-orientalt JavaScript #2**
   * Diak: -
