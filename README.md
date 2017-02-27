@@ -31,8 +31,8 @@ tapasztalatok alapjan nem szokott sikerulni azoknak, akik a felev soran akar csa
   * Diak: [link](http://slides.com/robertberetka/jstech-17-19#/)
   * Feladatok: [link](https://github.com/stoiet/elte-jstech-exercises/tree/master/lesson02)
 * **3. - Modularizalt es objektum-orientalt JavaScript #2**
-  * Diak: -
-  * Feladatok: -
+  * Diak: [link](http://slides.com/robertberetka/jstech-17-19-20#/)
+  * Feladatok:[link](https://github.com/stoiet/elte-jstech-exercises/tree/master/lesson03)
 * **4. - Asszinkronitas kezelese JavaScriptben**
   * Diak: -
   * Feladatok: -
