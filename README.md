@@ -26,7 +26,7 @@ tapasztalatok alapjan nem szokott sikerulni azoknak, akik a felev soran akar csa
 ## Tematika
 * **1. - Bevezeto a JavaScript nyelvrol**
   * Diak: [link](http://slides.com/robertberetka/jstech-33#/)
-  * Feladatok: -
+  * Feladatok: [link](https://github.com/stoiet/elte-jstech-exercises/tree/master/lesson01)
 
 ## Szamonkeres
 
