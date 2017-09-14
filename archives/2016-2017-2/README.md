@@ -1,8 +1,8 @@
 # **ELTE - JavaScript Technologiak**
 
 ## Idopont es helyszin
-* **Idopont:** Csutortok, 16:00 - 17:45
-* **Helyszin:** Déli Tömb 2-218 (komp. alg.)
+* **Idopont:** Kedd, 16:00 - 17:45
+* **Helyszin:** Eszaki tomb, 2.63 - as terem, PC-8
 
 ## Ismerteto
 * A targy elsodleges celja, hogy egy attekintest nyujtson a jelenlegi, modern webes technologiakrol,
@@ -25,6 +25,24 @@ tapasztalatok alapjan nem szokott sikerulni azoknak, akik a felev soran akar csa
 
 ## Tematika
 * **1. - Bevezeto a JavaScript nyelvrol**
+  * Diak: [link](http://slides.com/robertberetka/jstech-17)
+  * Feladatok: [link](https://github.com/stoiet/elte-jstech-exercises/tree/master/lession01)
+* **2. - Modularizalt es objektum-orientalt JavaScript #1**
+  * Diak: [link](http://slides.com/robertberetka/jstech-17-19#/)
+  * Feladatok: [link](https://github.com/stoiet/elte-jstech-exercises/tree/master/lesson02)
+* **3. - Modularizalt es objektum-orientalt JavaScript #2**
+  * Diak: [link](http://slides.com/robertberetka/jstech-17-19-20#/)
+  * Feladatok: [link](https://github.com/stoiet/elte-jstech-exercises/tree/master/lesson03)
+* **4. - Asszinkronitas kezelese JavaScriptben**
+  * Diak: [link](http://slides.com/robertberetka/jstech-17-19-20-21#/)
+  * Feladatok: [link](https://github.com/stoiet/elte-jstech-exercises/tree/master/lesson05)
+* **5. - Ismerkedes a komponens-alapu architekturaval (ReactJS) #1**
+  * Diak: -
+  * Feladatok: -
+* **6. - Ismerkedes a komponens-alapu architekturaval (ReactJS) #2**
+  * Diak: -
+  * Feladatok: -
+* **7. - ReactJS alkalmazas allapotkezelese Redux-al**
   * Diak: -
   * Feladatok: -
 
@@ -53,11 +71,35 @@ se megfelelo mennyisegu idot nem szantak ra, se az oran elhangzottak nem lettek 
 hogy elegtelen megajanlott jegyet adjak ra, annak ellenere, hogy lett bekuldve *"valamilyen"* megoldas.
 
 ### Szamonkeres hatarideje
-A beadando feladatot legkesobb ???? - ig lehet bekuldeni az alabbi email cimre: **to.stoiet@gmail.com**
+A beadando feladatot legkesobb junius 20 - ig lehet bekuldeni az alabbi email cimre: **to.stoiet@gmail.com**
 A beadando feladatot vagy a teljes forraskod vagy remote repository link (Github/BitBucket) elkuldesevel
 lehet leadni.
 
 ### Beadando feladat
+**Keretrendszerek / eszkozok:**
+* Kliens oldalon: ReactJS vagy AngularJS 1
+* Szerver oldalon: NodeJS, KoaJS, MongoDB
+* Csomagkezelo: NPM vagy Yarn
+* Projekt eszkozok: Webpack es Babel
+
+**Feladat:** Persona Preview
+
+Kepzeljunk el egy olyan alkalmazast, amivel olyan HTML oldalakat lehet epiteni, amelyeket tudunk szemelyre szabni.
+Az alkalmazasban fel tudunk venni *"persona"*-kat, akiknek meg tudunk adni egyedi adatokat, ezen kivul meg tudunk adni
+egy olyan HTML template-t, amelyet egy adott *"persona"*-ra legeneralva megkapjuk azt az oldalt, amit az adott szemelynek
+mutatnak a megfelelo adatai alapjan.
+
+**Pelda:**
+* Van N darab *"persona"*-nank, akikhez tartozik egy email mezo, benne a sajat email cimeikkel. Illetve van egy HTML template-unk,
+ami az egyszeruseg kedveert nezzen ki igy: ```<b>Email: </b><span>{{ persona.email }}</span>```
+Ha kivalasztunk egy *"persona"*-t - akinek az email cime mondjuk: persona@personamail.com - akkor az igy kapott generalt HTML
+a kovetkezo lesz: ```<b>Email: </b><span>persona@personamail.com</span>```
+
+**Elfogadasi feltetelek:**
+* Lehessen megadni *"persona"*-kat, akik a kovetkezo mezokkel rendelkeznek: first_name, last_name, email, gender
+* Mar felvett *"persona"*-k adatait lehessen utolag modositani
+* Lehessen megadni egy tetszoleges HTML template - t
+* Lehessen a generalt HTML eredmenyet egy kulon elonezetben (preview) megtekinteni *"persona"*-kent
 
 ## Feladatok
 * [Orai feladatgyujtemeny](https://github.com/stoiet/elte-jstech-exercises)
