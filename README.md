@@ -27,9 +27,15 @@ tapasztalatok alapjan nem szokott sikerulni azoknak, akik a felev soran akar csa
 * [NOTE.md](./NOTE.md)
 
 ## Tematika
-* **1. - Bevezeto a JavaScript nyelvrol**
+* **1. - Bevezeto a JavaScript nyelvrol #1**
   * Diak: [link](http://slides.com/robertberetka/jstech-33#/)
   * Feladatok: [link](https://github.com/stoiet/elte-jstech-exercises/tree/master/lesson01)
+* **2. - Bevezeto a JavaScript nyelvrol #2**
+  * Diak: [link]()
+  * Feladatok: [link]()
+* **3. - Aszinkronitas kezelese**
+  * Diak: [link]()
+  * Feladatok: [link]()
 
 ## Szamonkeres
 
