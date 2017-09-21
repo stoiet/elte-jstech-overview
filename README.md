@@ -23,6 +23,9 @@ megkonnyithetik az ezen a targy soran elhangzottak megerteset es a targy sikeres
 A kurzuson nem vezetunk katalogust, viszont az orara valo bejaras erosen ajanlott, mivel a targy elvegzese az eddigi
 tapasztalatok alapjan nem szokott sikerulni azoknak, akik a felev soran akar csak nehany alkalommal is hianyoznak.
 
+## Jegyzet
+* [NOTE.md](./NOTE.md)
+
 ## Tematika
 * **1. - Bevezeto a JavaScript nyelvrol**
   * Diak: [link](http://slides.com/robertberetka/jstech-33#/)
